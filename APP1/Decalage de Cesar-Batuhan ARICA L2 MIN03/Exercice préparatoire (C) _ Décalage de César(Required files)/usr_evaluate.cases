@@ -1,0 +1,23 @@
+Case = 1
+input =a
+output =Resultat : d 
+
+Case = 2
+input =i
+output =Resultat : l 
+
+Case = 3
+input =w
+output =Resultat : z
+
+Case = 4
+input =1
+output =Resultat : 1
+
+Case = 5
+input =?
+output =Resultat : ?
+
+Case = 6
+input =Z
+output =Resultat : C
